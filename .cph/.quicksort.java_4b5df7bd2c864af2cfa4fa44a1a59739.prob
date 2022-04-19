@@ -1,0 +1,1 @@
+{"name":"Local: quicksort","url":"/Users/dhruvbhardwaj/Desktop/Dhruv_Codes/Dhruv_Java/quicksort.java","tests":[{"id":1650095237421,"input":"6\n6 3 9 5 2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhruvbhardwaj/Desktop/Dhruv_Codes/Dhruv_Java/quicksort.java","group":"local","local":true}
